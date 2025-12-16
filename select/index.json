@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "お姫様にしてよ！",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-16T06:11:20.217842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "お姫様にしてよ！",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_お姫様にしてよ!_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お姫様にしてよ!",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_お姫様にしてよ!_=LOVE.txt"
+    }
+  ]
+}
